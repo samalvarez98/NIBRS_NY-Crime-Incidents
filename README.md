@@ -14,6 +14,32 @@ A Tableau dashboard that provides a series of graphs, tables, and maps with key 
 
 Dictionary
 ---
+
+Offense Type
+
+1. Simple Assault: An unlawful physical attack by one person upon another where neither the offender
+displays a weapon, nor the victim suffers obvious severe or aggravated bodily injury
+involving apparent broken bones, loss of teeth, possible internal injury, severe
+laceration, or loss of consciousness. 
+
+2. Aggravated Assault: An unlawful attack by one person upon another wherein the offender uses a weapon
+or displays it in a threatening manner, or the victim suffers obvious severe or
+aggravated bodily injury involving apparent broken bones, loss of teeth, possible
+internal injury, severe laceration, or loss of consciousness. 
+
+3. Robbery: The taking or attempting to take anything of value under confrontational
+circumstances from the control, custody, or care of another person by force or threat
+of force or violence and/or by putting the victim in fear of immediate harm. 
+
+4. Fondling: The touching of the private body parts of another person for the purpose of sexual
+gratification, forcibly and/or against that person’s will or not forcibly or against the
+person’s will in instances where the victim is incapable of giving consent because of
+his/her youth or because of his/her temporary or permanent mental or physical
+incapacity. 
+
+5. KIDNAPING/ABDUCTION: The unlawful seizure, transportation, and/or detention of a person against his/her will
+or of a minor without the consent of his/her custodial parent(s) or legal guardian. 
+
 Weapon Type
 
 1. Personal Weapons:(i.e., hands, feet, teeth, etc.)
