@@ -2,7 +2,7 @@
 ---
 Project Purpose
 ---
-The following project consisted of analyzing and creating visualizations of New York crime incidents data, using Tableau to create interactive and illustrative dashboards that give viewers an overall panorama of New York's criminal activity, but also find valuable insights that will guide policymakers to implement better laws and regulations to decrease crime in the state. Additionally, this project aims to demonstrate and show the new skills learned and to apply those skills in the data analysis process.
+The following project consisted of analyzing and creating visualizations of New York crime incidents data in 2020, using Tableau to create interactive and illustrative dashboards that give viewers an overall panorama of New York's criminal activity, but also find valuable insights that will guide policymakers to implement better laws and regulations to decrease crime in the state. Additionally, this project aims to demonstrate and show the new skills learned and to apply those skills in the data analysis process.
 
 Goal
 ---
