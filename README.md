@@ -15,6 +15,10 @@ A Tableau dashboard that provides a series of graphs, tables, and maps with key 
 Dictionary
 ---
 
+Incident: one or more offenses committed by the same offender, or group of offenders acting in concert, at the same time and place.
+Offense
+
+
 Offense Type
 
 1. Simple Assault: An unlawful physical attack by one person upon another where neither the offender
