@@ -68,6 +68,6 @@ To see the dinamic dashboard go to the follwoing link:https://public.tableau.com
 Results
 ---
 
-
+From the 101 agnecies that sent their crime data, Monroe County  presented the higest number of crime inncidents in 2020 with more than 9000 incidents, being sepetmeber the month with the highest number of crime incidents.  Brooke COunty in the southeast and Oneida COunty in the MId east were 2nd and 3rd respetively with highets number if crime incidents in 2020. Similarly to Monroe County, Brooke and Oneida had  August or September as their months with highest number of incidents. However, it was observed that the crime trend wnet down simlarly in the three states. 
 
 
